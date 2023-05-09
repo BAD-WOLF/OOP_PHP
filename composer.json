@@ -1,0 +1,12 @@
+{
+    "name": "u0_a287/oop_php",
+    "description": "test",
+    "require": {
+        "friendsofphp/php-cs-fixer": "^3.16"
+    },
+    "autoload": {
+        "psr-4": {
+            "U0A287\\OopPhp\\": "src/"
+        }
+    }
+}
